@@ -21,6 +21,7 @@ public class HelloWord {
 		}
 		System.out.print(a[i]+" ");
 		System.out.print(a[i]+" ");
+		System.out.print(a[i]+" ");
 	}
 
 }
